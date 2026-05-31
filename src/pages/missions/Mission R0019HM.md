@@ -34,7 +34,9 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > 3）向依莉貝爾警示武裝威脅的危機。
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 

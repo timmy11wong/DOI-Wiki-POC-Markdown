@@ -10,7 +10,9 @@
 - [R0030HM - 薯出必行](./Mission%20R0030HM.md)
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 

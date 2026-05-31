@@ -44,6 +44,8 @@
 | 2026-05-25 | [R0030HM](../missions/Mission%20R0030HM.md) | 薯出必行 |
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)

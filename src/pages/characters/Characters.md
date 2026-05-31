@@ -4,7 +4,9 @@
 - [Evelyn (R0034)](./R0034%20Evelyn.md)
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 

@@ -61,7 +61,9 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > ．調查哈爾法斯特與魔王的血脈關連
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 

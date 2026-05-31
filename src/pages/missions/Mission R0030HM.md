@@ -52,7 +52,9 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > ．調查兩年前拒收精金秘銀原因和後續
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 

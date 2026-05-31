@@ -39,7 +39,9 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > 　　範馬一族於帝國的交易對象似乎屬於穆法薩公爵派系
 
 
-<center>～Ends～</center>
+<div align="center">
+～Ends～
+</div>
 
 [Back to Front Page](../../../README.md)
 
