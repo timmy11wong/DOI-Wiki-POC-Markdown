@@ -1,4 +1,4 @@
-# Worlds Backgrounds
+# World Background
 
 ## World Map
 
