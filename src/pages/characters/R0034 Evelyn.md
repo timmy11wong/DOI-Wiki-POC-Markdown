@@ -1,15 +1,15 @@
 # Evelyn
 
-玩家：Timmy Wong
-角色：伊芙琳 Evelyn
-物種：High Elf
-性別：Female 
-背景：Acolyte
-職業：Wizard 3 (Diviner)
-宗教：Corellon Larethian
-陣營：Neutral Good 
-點數：11
-編號：R0034
+玩家：Timmy Wong  
+角色：伊芙琳 Evelyn  
+物種：High Elf  
+性別：Female  
+背景：Acolyte  
+職業：Wizard 3 (Diviner)  
+宗教：Corellon Larethian  
+陣營：Neutral Good  
+點數：11  
+編號：R0034 
 
 ## Characteristic
 

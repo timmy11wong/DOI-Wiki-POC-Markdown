@@ -1,15 +1,17 @@
 # Catherine
 
-玩家：Timmy Wong
-角色：凱薩琳 Catherine
-物種：Aasimar
-性別：Female 
-背景：Noble
-職業：Paladin 4 (Devotion)
-宗教：The Creator
-陣營：Lawful Neutral 
-點數：15
-編號：R0026
+# Catherine
+
+玩家：Timmy Wong  
+角色：凱薩琳 Catherine  
+物種：Aasimar  
+性別：Female  
+背景：Noble  
+職業：Paladin 4 (Devotion)  
+宗教：The Creator  
+陣營：Lawful Neutral  
+點數：15  
+編號：R0026  
 
 ## Characteristic
 
