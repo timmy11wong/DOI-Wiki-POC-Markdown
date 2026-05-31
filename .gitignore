@@ -1,0 +1,64 @@
+# =========================================================================
+# 專為 Markdown Wiki / 文件庫設計的 .gitignore
+# =========================================================================
+
+# ==========================================
+# 1. 作業系統產生的垃圾與暫存檔
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# 2. 筆記軟體與 Wiki 產生器的快取/隱藏資料夾
+# ==========================================
+.obsidian/                # Obsidian 個人與外掛設定
+/.obsidian/**             # Obsidian 個人與外掛設定 (For iOS Working Copy)
+.logseq/                  # Logseq 本地組態與快取
+.typora/                  # Typora 暫存
+.vuepress/.temp/          # VuePress 編譯暫存
+.vuepress/.cache/         # VuePress 快取
+.docusaurus/              # Docusaurus 編譯暫存
+node_modules/             # 前端套件庫
+dist/                     # 網頁打包輸出資料夾
+build/                    # 網頁打包輸出資料夾
+
+# ==========================================
+# 3. 跨平台文字編輯器與 IDE 設定檔
+# ==========================================
+# VS Code
+.vscode/
+
+# JetBrains (IntelliJ, WebStorm 等)
+.idea/
+
+# Vim / Linux 編輯器暫存
+*.swp
+*~
+
+# Visual Studio / .NET 相關專案檔
+*.sln
+*.suo
+*.ntvs*
+*.njsproj
+
+# Log files
+*.log
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
