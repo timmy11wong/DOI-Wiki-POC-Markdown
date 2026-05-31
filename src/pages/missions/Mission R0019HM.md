@@ -33,3 +33,8 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > 2）向哈爾法斯特請教反薯黨資料及大量武裝的威脅目標；問七大長老會議；
 > 3）向依莉貝爾警示武裝威脅的危機。
 
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)
+

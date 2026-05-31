@@ -42,3 +42,8 @@
 | 2026-03-08 | [R0024HM](../missions/Mission%20R0024HM.md) | 薯天已死 |
 | 2026-05-03 | [R0028HM](../missions/Mission%20R0028HM.md) | 見薯必殺 |
 | 2026-05-25 | [R0030HM](../missions/Mission%20R0030HM.md) | 薯出必行 |
+
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)

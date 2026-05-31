@@ -45,3 +45,8 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > 調查貴族教派榮光獅子內情（經仲尼．範馬）。
 
 
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)
+

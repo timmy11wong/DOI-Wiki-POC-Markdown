@@ -38,3 +38,8 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > 3） 教國+帝國與北方聯盟的貿易內容，與我們理解百年前穆法薩家出口糧食換精金秘銀有否改變。
 > 　　範馬一族於帝國的交易對象似乎屬於穆法薩公爵派系
 
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)
+

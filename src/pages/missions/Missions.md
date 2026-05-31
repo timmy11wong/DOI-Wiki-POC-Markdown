@@ -9,3 +9,8 @@
 - [R0028HM - 見薯必殺](./Mission%20R0028HM.md)
 - [R0030HM - 薯出必行](./Mission%20R0030HM.md)
 
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)
+

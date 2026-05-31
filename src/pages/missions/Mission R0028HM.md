@@ -60,3 +60,8 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 > ．調查聖女離開教國後的去向
 > ．調查哈爾法斯特與魔王的血脈關連
 
+
+<center>～Ends～</center>
+
+[Back to Front Page](../../../README.md)
+
