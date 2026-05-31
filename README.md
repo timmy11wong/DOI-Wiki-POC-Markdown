@@ -5,6 +5,7 @@ This repository is intended as a POC and testing ground for documenting content 
 
 ## Table of Contents
 
+- [Backgrounds](./src/pages/backgrounds/Backgrounds.md)
 - [Characters](./src/pages/characters/Characters.md)
     - [Catherine (R0026)](./src/pages/characters/R0026%20Catherine.md)
     - [Evelyn (R0034)](./src/pages/characters/R0034%20Evelyn.md)
