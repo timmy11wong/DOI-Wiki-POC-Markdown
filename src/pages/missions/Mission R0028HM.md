@@ -65,6 +65,6 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 ～Ends～
 </div>
 
-[Back to Missions List](./Missions.md)
-[Back to Front Page](../../../README.md)
+[Back to Missions List](./Missions.md)  
+[Back to Front Page](../../../README.md)  
 
