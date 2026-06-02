@@ -16,16 +16,26 @@ Thumbs.db
 # ==========================================
 # 2. 筆記軟體與 Wiki 產生器的快取/隱藏資料夾
 # ==========================================
-.obsidian/                # Obsidian 個人與外掛設定
-/.obsidian/**             # Obsidian 個人與外掛設定 (For iOS Working Copy)
-.logseq/                  # Logseq 本地組態與快取
-.typora/                  # Typora 暫存
-.vuepress/.temp/          # VuePress 編譯暫存
-.vuepress/.cache/         # VuePress 快取
-.docusaurus/              # Docusaurus 編譯暫存
-node_modules/             # 前端套件庫
-dist/                     # 網頁打包輸出資料夾
-build/                    # 網頁打包輸出資料夾
+# Obsidian 個人與外掛設定
+.obsidian/
+# Obsidian 個人與外掛設定 (For iOS Working Copy)
+/.obsidian/**
+# Logseq 本地組態與快取
+.logseq/
+# Typora 暫存
+.typora/
+# VuePress 編譯暫存
+.vuepress/.temp/
+# VuePress 快取
+.vuepress/.cache/
+# Docusaurus 編譯暫存
+.docusaurus/
+# 前端套件庫
+node_modules/
+# 網頁打包輸出資料夾
+dist/
+# 網頁打包輸出資料夾
+build/
 
 # ==========================================
 # 3. 跨平台文字編輯器與 IDE 設定檔
@@ -61,4 +71,3 @@ build/                    # 網頁打包輸出資料夾
 *.flv
 *.mov
 *.wmv
-
