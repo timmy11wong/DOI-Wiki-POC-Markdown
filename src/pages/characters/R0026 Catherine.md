@@ -1,7 +1,5 @@
 # Catherine
 
-# Catherine
-
 玩家：Timmy Wong  
 角色：凱薩琳 Catherine  
 物種：Aasimar  
