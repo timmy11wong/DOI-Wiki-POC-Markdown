@@ -8,6 +8,7 @@ This repository is intended as a POC and testing ground for documenting content 
 - [Characters](./src/pages/characters/Characters.md)
   - [Catherine (R0026)](./src/pages/characters/R0026%20Catherine.md)
   - [Evelyn (R0034)](./src/pages/characters/R0034%20Evelyn.md)
+  - [David (R0031)](./src/pages/characters/R0031%20David.md)
 - [Missions](./src/pages/missions/Missions.md)
 
 ---
