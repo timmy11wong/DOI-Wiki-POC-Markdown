@@ -4,6 +4,8 @@
 
 ![World Map](../../assets/images/map/variantrules.jpg)
 
+---
+
 <div align="center">
 ～Ends～
 </div>
