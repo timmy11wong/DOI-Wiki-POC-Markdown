@@ -31,3 +31,10 @@ End Game Time & Place: 神恩歷DG1443年冬
 > 在粟米人聚居地外，眾人擊倒作為守衛的不死物。察覺事有蹺蹊的眾人，在聚居地中最大農田發現帶詛咒的魔法陣，魔法陣浮現康多的鬼魂，並指揮粟米人襲擊冒險者。
 >
 > 清場後得知魔法陣下面埋有尸首，要消除魔法詛咒就要解除死者執念。綸娜德帶走頭骨，嘗試找祭師或神官Speak with Dead，了解其執念內容。  
+
+<div align="center">
+～Ends～
+</div>
+
+[Back to Missions List](./Missions.md)  
+[Back to Front Page](../../../README.md)  

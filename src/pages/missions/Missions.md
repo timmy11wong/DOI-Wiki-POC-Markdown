@@ -29,6 +29,10 @@
 
 - [R0031GS - 紫氣東來](./Mission%20R0031GS.md)
 
+## Tim Yu Mission List
+
+- [R0035TY - 唯一](./Mission%20R0035TY.md)
+
 ---
 
 <div align="center">

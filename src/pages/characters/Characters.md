@@ -4,6 +4,7 @@
 - [David (R0031)](./R0031%20David.md)
 - [Evelyn (R0034)](./R0034%20Evelyn.md)
 - [Firenze (R0045)](./R0045%20Firenze.md)
+- [Kaelia (R0066)](./R0066%20Kaelia.md)
 
 ---
 
