@@ -2,6 +2,14 @@
 
 ## Fox Homingmaru Missions List
 
+### Fox Homingmaru 地下城 系列
+
+- [R0016HM - 地城厄運](./Mission%20R0016HM.md)
+- [R0026HM - 暗影迷城](./Mission%20R0026HM.md)
+- [R0036HM - 人為刀俎](./Mission%20R0036HM.md)
+
+### Fox Homingmaru 教國 系列
+
 - [R0015HM - 歌功頌德](./Mission%20R0015HM.md)
 - [R0018HM - 水深火熱](./Mission%20R0018HM.md)
 - [R0019HM - 反薯革命](./Mission%20R0019HM.md)
@@ -9,6 +17,10 @@
 - [R0028HM - 見薯必殺](./Mission%20R0028HM.md)
 - [R0030HM - 薯出必行](./Mission%20R0030HM.md)
 - [R0033HM - 薯即是薯](./Mission%20R0033HM.md)
+
+## Henry Missions List
+
+- [R0023H - 零氏物語 ~ 一之一 尋訪隱士](./Mission%20R0023H.md)
 
 ## Death Walker Missions List
 

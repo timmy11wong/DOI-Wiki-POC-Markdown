@@ -1,0 +1,47 @@
+# Mission: R0026HM
+
+Mission R0026HM-暗影迷城  
+DM：HM  
+Level：1-3  
+人數：4-6  
+日期：2026年4月7日 (星期二，復活節星期一翌日)  
+時間：14:00 - 19:00  
+Start Game Time & Place : 神恩歷DG1443年冬，希爾頓伯爵領  
+End Game Time & Place: 神恩歷DG1443年冬，希爾頓伯爵領  
+
+## 玩家
+
+- Timmy: Dwarf Hermit Clr2 F, [Armas 阿密斯](../characters/R0024%20Armas.md)  
+- 44: Tiefling(Abyssal) Entertainer Brd3 M, 奧多魯．卡利  
+- Tim: Wood Elf Entertainer Pal3 F, 阿麗雅  
+- King: Cloud Goliath Sailor Sor1/Brd2 M, 卡拉圖．雲丹沙 Kratok Windancer  
+- Sonia: Forest Gnome Farmer Ftr3 M, 撕轟  
+- Leo: Stone Goliath Farmer Mnk1 M, Himalaya 喜馬拉雅  
+- Peter: Dwarf Soldier Ftr2 M, 艾恩．多羅  
+
+## 任務記錄
+
+> 前情提要，眾冒險者帶回戰士巴托理斯特遺體，連同邪教徒和2隻Intellect Devourer殘骸回到地面，檢查後發現邪教徒身上有「無法描述的圖案」之紋身。哈梅來先生協助處理身後事，並由領主夫人的骨仔們清理冒險者遇襲的白色塔，並在古城內外城牆之間的夾城繞行一圈，確認古城城牆為五角形狀，邊長大約四里（2小時腳程），內城門開在白色塔方向，於是哈梅來先生繼續招募冒險隊伍探索古城。  
+>
+> 由於冒險者已經知道骨仔們帶回的城牆輪廓，所以決定由夾城攀爬到內城牆，嘗試向左邊最近的角樓探索，尋找進城方法。途中在內城牆上和角樓內消滅多批 Fiends(Demon) 來襲後，隊伍順利清理左邊最近角樓的4階以下區域，並理解內城角樓結構大致是每20呎為一層平台，中間由螺旋樓梯貫穿上下。  
+>
+> ．地下一層為存物室，找到一把手柄鑲有5色寶石的短劍；  
+> ．地面層有通向城內的門，現在尚未探索；  
+> ．一階有通向內城牆內秘道的門，已經打開，看到牆內秘道沿城牆向兩邊伸展；  
+> ．二階有望向外牆的箭孔；  
+> ．三階有通向內城牆馬道的門，以及向外牆的窗戶；  
+> ．四階有望向城內的窗戶；  
+> ．五階及以上尚未探索。  
+>
+> 隊伍從四階窗戶看到城牆內地面有一深坑，坑內建有村屋，並發現有Gnoll在活動；另外矮人多羅使用震動感知(Tremorsense)，發現角樓七階有2名大形生物的活動踪跡。考慮續戰力後，隊伍決定先回城報告。
+
+## 地城地圖  
+
+![地城空間略圖](../../assets/images/map/HM_Dungeon_Map%2020260727.jpg)
+
+<div align="center">
+～Ends～
+</div>
+
+[Back to Missions List](./Missions.md)  
+[Back to Front Page](../../../README.md)  

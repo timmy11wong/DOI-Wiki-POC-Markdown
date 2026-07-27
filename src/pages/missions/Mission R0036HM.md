@@ -1,0 +1,39 @@
+# Mission: R0036HM
+
+Mission R0036HM-人為刀俎  
+DM：HM  
+Level：2-4  
+人數：4-6  
+日期：2026年7月26日 (星期日)  
+時間：14:00 - 19:00  
+Start Game Time & Place : 神恩歷DG1444年春，希爾頓伯爵領  
+End Game Time & Place: 神恩歷DG1444年春，希爾頓伯爵領  
+
+## 玩家
+
+- Timmy: Dwarf Hermit Clr2 F, [Armas 阿密斯](../characters/R0024%20Armas.md)  
+- H: Human Sage Wiz3(Diviner) M, Dear Jace  
+- 河馬: Human Merchant Wlc3 F, 嘉樹  
+- 喬: Human Guide Rgr3 M, 沙普林 Sapling  
+- Tim: Wood Elf Entertainer Pal3 F, 阿麗雅  
+- JM: Gnome Noble Clr1/Wiz1 F, Sagania Thalivane 薩加妮雅．瑟利凡  
+- Peter: Dwarf Soldier Ftr3(Champion) M, 艾恩．多羅  
+
+## 任務記錄
+
+> 事隔數月，上次「暗影迷城」之後，又有一隊地城調查隊伍失蹤。哈梅來先生再次召集冒險隊伍，調查並清空「暗影迷城」到達的內城角樓。  
+>
+> 來到上次登城牆位置，眾人發現梯子和登山釘都被移除。重新安裝梯子和登山釘並登上城牆，進入城角樓登上六階時，發現一個通往下界的魔法傳送陣，並開始觸發源源不絕把低階惡魔傳到樓層，同時間先後遇到來自深淵(The Abyss)的中級惡魔 Bulezau 和 Chasme 襲擊。眾人擊退多批惡魔，並由法師Dear Jace臨摹魔法陣，然後成功用聖水和光傷害破壞地板上的魔法傳送陣。  
+>
+> 考慮續戰力後，隊伍決定先回城報告。離開時拆除了登山釘和梯子。  
+
+## 地城地圖  
+
+![地城空間略圖](../../assets/images/map/HM_Dungeon_Map%2020260727.jpg)
+
+<div align="center">
+～Ends～
+</div>
+
+[Back to Missions List](./Missions.md)  
+[Back to Front Page](../../../README.md)  

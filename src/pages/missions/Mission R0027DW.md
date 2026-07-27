@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1444年春
 
 ## 玩家
 
-- Timmy: Aasimar Guide Catherine Rog1/Ftr2 M, [翡冷翠 Firenze](../characters/R0045%20Firenze.md)  
+- Timmy: Aasimar Guide Rog1/Ftr2 M, [翡冷翠 Firenze](../characters/R0045%20Firenze.md)  
 - HM: Aasimar Guard Clr 2 M, 雷博德．亞爾畢斯 Thunderbird Albus  
 - Leo: Stone Goliath Farmer Mnk2 M, Himalaya 喜馬拉雅  
 - H: Human Sage Wiz3(Diviner) M, Dear Jace  

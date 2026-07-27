@@ -9,7 +9,7 @@
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
 點數：2  
-編號：New Character  
+編號：R0066  
 
 ## Characteristic
 

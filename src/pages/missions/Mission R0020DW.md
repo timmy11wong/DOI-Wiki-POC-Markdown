@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1443年冬
 
 ## 玩家
 
-- Timmy: Aasimar Noble Catherine Pal3 F, 凱薩琳 Catherine  
+- Timmy: Aasimar Noble Pal3 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
 - JM: Human Wayfarer Brd3 M, 亞米爾  
 - Mark Wong: Human Merchant Ftr2 M, 巴托理斯特 Battleist  
 - Leo: Drow Entertainer Sor3 F, 莎樂雅  

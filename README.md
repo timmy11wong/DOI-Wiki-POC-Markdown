@@ -6,6 +6,7 @@ This repository is intended as a POC and testing ground for documenting content 
 
 - [Backgrounds](./src/pages/backgrounds/Backgrounds.md)
 - [Characters](./src/pages/characters/Characters.md)
+  - [Armas (R0024)](./src/pages/characters/R0024%20Armas.md)
   - [Catherine (R0026)](./src/pages/characters/R0026%20Catherine.md)
   - [David (R0031)](./src/pages/characters/R0031%20David.md)
   - [Evelyn (R0034)](./src/pages/characters/R0034%20Evelyn.md)

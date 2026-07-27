@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1444年夏
 
 ## 玩家
 
-- Timmy: Aasimar Noble Catherine Pal3 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
+- Timmy: Aasimar Noble Pal3 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
 - Mark: Human Merchant Ftr3 M, 維吉爾 Vigil
 - Leo: High Elf Guard Ftr2 F, 姬爾蒂絲莉雅Gilthesilea (絲莉雅Silea)  
 - HM: Tiefling Artisan Rog3 F, 綸娜德．里那 Renarde Lila  

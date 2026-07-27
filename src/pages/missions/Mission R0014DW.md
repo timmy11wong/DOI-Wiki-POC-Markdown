@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1443年初冬
 
 ## 玩家
 
-- Timmy: Aasimar Noble Catherine Pal2 F, 凱薩琳 Catherine  
+- Timmy: Aasimar Noble Pal2 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
 - Leo: Aasimar Farmer Bbn1/Wlc1 F, 赤龍．目連  
 - Tim: Dwarf Farmer Clr1/Wiz1 M, 艾爾登  
 - H: Human Sage Wiz1 M, Dear Jace  
