@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1443年冬，廸韋格里斯
 
 ## 玩家
 
-- Timmy: Elf Acolyte Wiz3 F, [伊芙琳 Evelyn](../characters/R0034%20Evelyn.md)  
+- Timmy: Elf Acolyte Wiz3(Diviner) F, [伊芙琳 Evelyn](../characters/R0034%20Evelyn.md)  
 - 44: Aasimar Noble Pal3(Devotion) M, 路米爾．希默  
 - Peter: Human Sage Clr3(War) M, 康斯坦丁．李維斯  
 - JM: Human Guide Rog4 M, 凱爾

@@ -11,7 +11,7 @@ End Game Time & Place: 神恩歷DG1444年春
 
 ## 玩家
 
-- Timmy: Aasimar Noble Pal3 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
+- Timmy: Aasimar Noble Pal3(Devotion) F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
 - Matt: Human Soldier Ftr1 M, Luven  
 - Mercury: Dwarf Wayfarer Mnk2 M, Barnabus Bottlebee  
 - 草皮: Aasimar Farmer Clr (Moradin)2 F, 瑞安  

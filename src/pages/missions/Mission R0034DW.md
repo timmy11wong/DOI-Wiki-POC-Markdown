@@ -11,10 +11,10 @@ End Game Time & Place: 神恩歷DG1444年夏
 
 ## 玩家
 
-- Timmy: Aasimar Noble Pal3 F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
+- Timmy: Aasimar Noble Pal4(Devotion) F, [凱薩琳 Catherine](../characters/R0026%20Catherine.md)  
 - Mark: Human Merchant Ftr3 M, 維吉爾 Vigil
 - Leo: High Elf Guard Ftr2 F, 姬爾蒂絲莉雅Gilthesilea (絲莉雅Silea)  
-- HM: Tiefling Artisan Rog3 F, 綸娜德．里那 Renarde Lila  
+- HM: Tiefling Artisan Rog4 F, 綸娜德．里那 Renarde Lila  
 - Sonia: Forest Gnome Farmer Ftr3 (Psi Warrior) M, 撕轟  
 - King: Cloud Goliath Sailor Sor1/Brd2 M, 卡拉篤克．雲丹沙 Kratok  
 - Tim: Dwarf Farmer Clr1/Wiz2 M, 艾爾登  
