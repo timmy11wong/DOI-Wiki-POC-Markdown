@@ -21,6 +21,7 @@
 ## Henry Missions List
 
 - [R0023H - 零氏物語 ~ 一之一 尋訪隱士](./Mission%20R0023H.md)
+- [R0037H - 零氏物語 ~ 一之二 午夜燒賣](./Mission%20R0037H.md)
 
 ## Death Walker Missions List
 

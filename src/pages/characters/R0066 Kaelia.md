@@ -8,7 +8,7 @@
 職業：Wizard 2  
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
-點數：2  
+點數：1  
 編號：R0066  
 
 ## Characteristic
@@ -31,9 +31,10 @@
 
 ## Mission Records
 
-| Date       | Mission                                     | Title   |
-| ---------- | ------------------------------------------- | ------- |
-| 2026-07-18 | [R0035TY](../missions/Mission%20R0035TY.md) | 唯一     |
+| Date       | Mission                                     | Title                  |
+| ---------- | ------------------------------------------- | ---------------------- |
+| 2026-07-18 | [R0035TY](../missions/Mission%20R0035TY.md) | 唯一                    |
+| 2026-08-01 | [R0037H](../missions/Mission%20R0037H.md)   | 零氏物語 ~ 一之二 午夜燒賣 |
 
 <div align="center">
 ～Ends～

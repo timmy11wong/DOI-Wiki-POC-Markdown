@@ -1,8 +1,18 @@
-# World Background
+# 世界背景
 
-## World Map
+## 帝國地區  
 
-![World Map](../../assets/images/map/variantrules.jpg)
+- [森普斯鎮](location/SimpleTown.md)  
+- 金帕斯鎮  
+- 希爾頓伯爵領  
+
+## 教國地區
+
+- 廸韋格里斯  
+
+## 世界地圖  
+
+![World Map](../../assets/images/map/Variantrules_trim.jpg)
 
 ---
 
