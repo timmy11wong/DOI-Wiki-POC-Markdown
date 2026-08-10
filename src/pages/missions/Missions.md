@@ -20,8 +20,11 @@
 
 ## Henry Missions List
 
+### Henry 零氏物語 系列
+
 - [R0023H - 零氏物語 ~ 一之一 尋訪隱士](./Mission%20R0023H.md)
 - [R0037H - 零氏物語 ~ 一之二 午夜燒賣](./Mission%20R0037H.md)
+- [R0038H - 零氏物語 ~ 一之三 忘亡忙妄](./Mission%20R0038H.md)
 
 ## Death Walker Missions List
 
@@ -44,6 +47,7 @@
 
 ## Tim Yu Mission List
 
+- [R0017TY - 交涉](./Mission%20R0017TY.md)
 - [R0035TY - 唯一](./Mission%20R0035TY.md)
 
 ---
