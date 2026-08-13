@@ -21,16 +21,16 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Firenze%20Profile%2020260708.jpg)
+![Portrait](../../assets/images/portrait/Firenze%20Profile%2020260813.jpg)
 
 ## Mission Records
 
-| Date       | Mission                                     | Title                  |
-| ---------- | ------------------------------------------- | ---------------------- |
-| 2026-02-22 | R0022DW                                     | 新年糖果大作戰           |
-| 2026-03-01 | [R0023H](../missions/Mission%20R0023H.md)   | 零氏物語 ~ 一之一 尋訪隱士 |
-| 2026-04-25 | [R0027DW](../missions/Mission%20R0027DW.md) | 黃金鑰匙                |
-| 2026-05-16 | [R0029DW](../missions/Mission%20R0029DW.md) | 偉大航道                |
+| Date       | Mission                              | Title                  |
+| ---------- | ------------------------------------ | ---------------------- |
+| 2026-02-22 | R0022DW                              | 新年糖果大作戰           |
+| 2026-03-01 | [R0023H](../missions/H/R0023H.md)    | 零氏物語 ~ 一之一 尋訪隱士 |
+| 2026-04-25 | [R0027DW](../missions/DW/R0027DW.md) | 黃金鑰匙                |
+| 2026-05-16 | [R0029DW](../missions/DW/R0029DW.md) | 偉大航道                |
 
 <div align="center">
 ～Ends～

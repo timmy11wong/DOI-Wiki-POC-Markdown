@@ -5,10 +5,10 @@
 物種：Wood Elf  
 性別：Female  
 背景：Scribe  
-職業：Wizard 2  
+職業：Wizard 3 (Bladesinger)  
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
-點數：1  
+點數：5  
 編號：R0066  
 
 ## Characteristic
@@ -31,11 +31,11 @@
 
 ## Mission Records
 
-| Date       | Mission                                     | Title                  |
-| ---------- | ------------------------------------------- | ---------------------- |
-| 2026-07-18 | [R0035TY](../missions/Mission%20R0035TY.md) | 唯一                    |
-| 2026-08-01 | [R0037H](../missions/Mission%20R0037H.md)   | 零氏物語 ~ 一之二 午夜燒賣 |
-| 2026-08-09 | [R0038H](../missions/Mission%20R0038H.md)   | 零氏物語 ~ 一之三 忘亡忙妄 |
+| Date       | Mission                              | Title                  |
+| ---------- | ------------------------------------ | ---------------------- |
+| 2026-07-18 | [R0035TY](../missions/TY/R0035TY.md) | 唯一                    |
+| 2026-08-01 | [R0037H](../missions/H/R0037H.md)    | 零氏物語 ~ 一之二 午夜燒賣 |
+| 2026-08-09 | [R0038H](../missions/H/R0038H.md)    | 零氏物語 ~ 一之三 忘亡忙妄 |
 
 <div align="center">
 ～Ends～

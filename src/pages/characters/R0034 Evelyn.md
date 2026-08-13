@@ -31,16 +31,16 @@
 
 ## Mission Records
 
-| Date       | Mission                                     | Title   |
-| ---------- | ------------------------------------------- | ------- |
-| 2025-10-29 | R0013HM                                     | 危機四伏 |
-| 2025-11-22 | [R0015HM](../missions/Mission%20R0015HM.md) | 歌功頌德 |
-| 2026-01-01 | [R0018HM](../missions/Mission%20R0018HM.md) | 水深火熱 |
-| 2026-01-18 | [R0019HM](../missions/Mission%20R0019HM.md) | 反薯革命 |
-| 2026-03-08 | [R0024HM](../missions/Mission%20R0024HM.md) | 薯天已死 |
-| 2026-05-03 | [R0028HM](../missions/Mission%20R0028HM.md) | 見薯必殺 |
-| 2026-05-25 | [R0030HM](../missions/Mission%20R0030HM.md) | 薯出必行 |
-| 2026-07-01 | [R0033HM](../missions/Mission%20R0033HM.md) | 薯即是薯 |
+| Date       | Mission                              | Title   |
+| ---------- | ------------------------------------ | ------- |
+| 2025-10-29 | R0013HM                              | 危機四伏 |
+| 2025-11-22 | [R0015HM](../missions/HM/R0015HM.md) | 歌功頌德 |
+| 2026-01-01 | [R0018HM](../missions/HM/R0018HM.md) | 水深火熱 |
+| 2026-01-18 | [R0019HM](../missions/HM/R0019HM.md) | 反薯革命 |
+| 2026-03-08 | [R0024HM](../missions/HM/R0024HM.md) | 薯天已死 |
+| 2026-05-03 | [R0028HM](../missions/HM/R0028HM.md) | 見薯必殺 |
+| 2026-05-25 | [R0030HM](../missions/HM/R0030HM.md) | 薯出必行 |
+| 2026-07-01 | [R0033HM](../missions/HM/R0033HM.md) | 薯即是薯 |
 
 <div align="center">
 ～Ends～
