@@ -29,7 +29,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260813.jpg)
+![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260814.jpg)
 
 ## Mission Records
 

@@ -27,7 +27,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Evelyn%20Profile%2020260328.jpg)
+![Portrait](../../assets/images/portrait/Evelyn%20Profile%2020260814.jpg)
 
 ## Mission Records
 
