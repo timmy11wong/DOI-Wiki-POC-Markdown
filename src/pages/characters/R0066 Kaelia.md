@@ -27,7 +27,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Kaelia%20Profile%2020260708.jpg)
+![Portrait](../../assets/images/portrait/Kaelia%20Profile%2020260816.jpg)
 
 ## Mission Records
 

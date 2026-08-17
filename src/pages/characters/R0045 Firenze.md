@@ -21,7 +21,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Firenze%20Profile%2020260813.jpg)
+![Portrait](../../assets/images/portrait/Firenze%20Profile%2020260817.jpg)
 
 ## Mission Records
 
