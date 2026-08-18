@@ -26,6 +26,10 @@
 - [R0037H - 零氏物語 ~ 一之二 午夜燒賣](./H/R0037H.md)
 - [R0038H - 零氏物語 ~ 一之三 忘亡忙妄](./H/R0038H.md)
 
+### Henry 金帕斯鎮小傳 系列  
+
+- [R0039H - 金帕斯鎮小傳 ～ 窮兇極惡哥布林](./H/R0039H.md)
+
 ## Death Walker Missions List
 
 ### Death Walker 古達卡領 系列  

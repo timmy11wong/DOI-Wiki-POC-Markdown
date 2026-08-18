@@ -1,10 +1,11 @@
 # Characters List
 
 - [Armas (R0024)](./R0024%20Armas.md)
-- [Catherince (R0026)](./R0026%20Catherine.md)
+- [Catherine (R0026)](./R0026%20Catherine.md)  
 - [David (R0031)](./R0031%20David.md)
 - [Evelyn (R0034)](./R0034%20Evelyn.md)
 - [Firenze (R0045)](./R0045%20Firenze.md)
+- [Joanna (R0074)](./R0074%20Joanna.md)  
 - [Kaelia (R0066)](./R0066%20Kaelia.md)
 
 ---

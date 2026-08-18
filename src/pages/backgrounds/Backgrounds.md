@@ -3,12 +3,12 @@
 ## 帝國地區  
 
 - [森普斯鎮](location/SimpleTown.md)  
-- 金帕斯鎮  
+- [金帕斯鎮](location/ComplexTown.md)  
 - 希爾頓伯爵領  
 
 ## 教國地區
 
-- 廸韋格里斯  
+- [廸韋格里斯](location/Verdigris.md)  
 
 ## 世界地圖  
 
