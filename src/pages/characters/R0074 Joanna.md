@@ -1,4 +1,4 @@
-# Kaelia
+# Joanna
 
 玩家：Timmy Wong  
 角色：喬安娜 Joanna de Clairval  
@@ -25,7 +25,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Joanna%20Profile%2020260814.jpg)
+![Portrait](../../assets/images/portrait/Joanna%20Profile%2020260821.jpg)
 
 ## Mission Records
 
