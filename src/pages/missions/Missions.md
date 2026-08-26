@@ -17,6 +17,7 @@
 - [R0028HM - 見薯必殺](./HM/R0028HM.md)
 - [R0030HM - 薯出必行](./HM/R0030HM.md)
 - [R0033HM - 薯即是薯](./HM/R0033HM.md)
+- [R0040HM - 薯兄薯弟](./HM/R0040HM.md)
 
 ## Henry Missions List
 

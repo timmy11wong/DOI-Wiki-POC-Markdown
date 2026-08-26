@@ -41,6 +41,7 @@
 | 2026-05-03 | [R0028HM](../missions/HM/R0028HM.md) | 見薯必殺 |
 | 2026-05-25 | [R0030HM](../missions/HM/R0030HM.md) | 薯出必行 |
 | 2026-07-01 | [R0033HM](../missions/HM/R0033HM.md) | 薯即是薯 |
+| 2026-08-23 | [R0040HM](../missions/HM/R0040HM.md) | 薯兄薯弟 |
 
 <div align="center">
 ～Ends～
