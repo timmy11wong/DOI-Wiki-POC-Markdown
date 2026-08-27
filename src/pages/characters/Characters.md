@@ -1,12 +1,12 @@
 # Characters List
 
-- [Armas (R0024)](./R0024%20Armas.md)
-- [Catherine (R0026)](./R0026%20Catherine.md)  
-- [David (R0031)](./R0031%20David.md)
-- [Evelyn (R0034)](./R0034%20Evelyn.md)
-- [Firenze (R0045)](./R0045%20Firenze.md)
-- [Joanna (R0074)](./R0074%20Joanna.md)  
-- [Kaelia (R0066)](./R0066%20Kaelia.md)
+- [Armas (R0024)](./R0024_Armas.md)
+- [Catherine (R0026)](./R0026_Catherine.md)  
+- [David (R0031)](./R0031_David.md)
+- [Evelyn (R0034)](./R0034_Evelyn.md)
+- [Firenze (R0045)](./R0045_Firenze.md)
+- [Joanna (R0074)](./R0074_Joanna.md)  
+- [Kaelia (R0066)](./R0066_Kaelia.md)
 
 ---
 
@@ -14,4 +14,4 @@
 ～Ends～
 </div>
 
-[Back to Front Page](../../../README.md)
+[Back to Front Page](../../../index.md)

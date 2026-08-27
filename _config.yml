@@ -1,0 +1,20 @@
+# ==========================================
+# Site Settings Configuration for DOIWikiPOC
+# ==========================================
+title: "伯萊登紀事"
+description: "一個以D&D 5R 系統進行的TRPG遊戲世界的個人維基站點。"
+author: "DOI"
+language: "zh-Hant"
+
+url: "https://timmy11wong.github.io/"
+baseurl: "/DOI-Wiki-POC-Markdown"
+
+# File build and exclusion settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
+  - LICENSE
+  - .gitignore

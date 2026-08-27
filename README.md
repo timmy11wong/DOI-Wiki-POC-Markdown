@@ -6,13 +6,13 @@ This repository is intended as a POC and testing ground for documenting content 
 
 - [Backgrounds](./src/pages/backgrounds/Backgrounds.md)
 - [Characters](./src/pages/characters/Characters.md)
-  - [Armas (R0024)](./src/pages/characters/R0024%20Armas.md)
-  - [Catherine (R0026)](./src/pages/characters/R0026%20Catherine.md)
-  - [David (R0031)](./src/pages/characters/R0031%20David.md)
-  - [Evelyn (R0034)](./src/pages/characters/R0034%20Evelyn.md)
-  - [Firenze (R0045)](./src/pages/characters/R0045%20Firenze.md)
-  - [Joanna (R0074)](./src/pages/characters/R0074%20Joanna.md)
-  - [Kaelia (R0066)](./src/pages/characters/R0066%20Kaelia.md)
+  - [Armas (R0024)](./src/pages/characters/R0024_Armas.md)
+  - [Catherine (R0026)](./src/pages/characters/R0026_Catherine.md)
+  - [David (R0031)](./src/pages/characters/R0031_David.md)
+  - [Evelyn (R0034)](./src/pages/characters/R0034_Evelyn.md)
+  - [Firenze (R0045)](./src/pages/characters/R0045_Firenze.md)
+  - [Joanna (R0074)](./src/pages/characters/R0074_Joanna.md)
+  - [Kaelia (R0066)](./src/pages/characters/R0066_Kaelia.md)
 - [Missions](./src/pages/missions/Missions.md)
 
 ---
