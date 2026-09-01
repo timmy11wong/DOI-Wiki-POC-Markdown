@@ -5,7 +5,7 @@
 物種：High Elf  
 性別：Male  
 背景：Charlatan  
-職業：Bard 1 Sorcerer 1  
+職業：Bard 1 Sorcerer 2  
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
 點數：2  
@@ -33,8 +33,8 @@
 
 | Date       | Mission                              | Title   |
 | ---------- | ------------------------------------ | ------- |
-| 2025-09-29 | R0009TY                              | 補品     |
-| 2025-10-05 | R0011TY                              | 地盤     |
+| 2025-09-29 | [R0009TY](../missions/TY/R0009TY.md) | 補品     |
+| 2025-10-05 | [R0011TY](../missions/TY/R0011TY.md) | 地盤     |
 | 2025-12-27 | [R0017TY](../missions/TY/R0017TY.md) | 交涉     |
 | 2026-06-14 | [R0031GS](../missions/GS/R0031GS.md) | 紫氣東來 |
 
