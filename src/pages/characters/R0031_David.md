@@ -27,7 +27,9 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/David%20Profile%2020260320.jpg)
+![Portrait](../../assets/images/portrait/David%20Profile%2020260903.jpg)
+
+![Portrait](../../assets/images/portrait/David%20Sneak%20Profile%2020260903.jpg)
 
 ## Mission Records
 
