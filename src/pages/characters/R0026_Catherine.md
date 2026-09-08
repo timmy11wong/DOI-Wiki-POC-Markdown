@@ -8,7 +8,7 @@
 職業：Paladin 4 (Devotion)  
 宗教：The Creator  
 陣營：Lawful Neutral  
-點數：15  
+點數：  
 編號：R0026  
 
 ## Characteristic
@@ -21,15 +21,17 @@
 
 ### Character Appearance
 
-> 外觀上貌似人類年輕女性，身材修長，身高約5呎8(172cm)。平日活動也披重鎧持盾佩劍，條板甲(Splint Armor)閃閃發亮，盾上紋上教會聖徽，胸前亦有掛上聖徽。有需要與政教社經高層面談時，會改穿回著貴族衣物(Fine Clothes)，否則多數時間都處於武裝戒備的狀態。
+> 外觀上貌似人類年輕女性，身材修長，身高約5呎8(172cm)。平日活動也披重鎧持盾佩劍，條板甲(Splint Armor)閃閃發亮，盾上紋上教會聖徽，胸前亦有掛上聖徽。有需要與政教社經高層面談時，會改穿回著貴族衣物(Fine Clothes)，否則多數時間都處於武裝戒備的狀態。  
 >
-> 舉止端莊溫文爾雅，明顯曾受貴族教育，對政教禮儀有一定了解。言談之間聲線平穩而平淡，不隨情感起伏，有種距離感。
+> 舉止端莊溫文爾雅，明顯曾受貴族教育，對政教禮儀有一定了解。言談之間聲線平穩而平淡，不隨情感起伏，有種距離感。  
 >
-> 仔細觀看能發現有特意化妝(Apply makeup, Disguise Kit, Costume: Cha+2)，把面貌上Aasimar的特徵盡量遮掩，五觀輪廓更接近平凡女性人類。
+> 仔細觀看能發現有特意化妝(Apply makeup, Disguise Kit, Costume: Cha+2)，把面貌上Aasimar的特徵盡量遮掩，五觀輪廓更接近平凡女性人類。  
+>
+> 雖然平常都會控制情感起伏，但面對不義之事仍會氣憤，怒氣達至頂點時會不自覺地顯露出Aasimar的羽翼，也會自如地用於戰鬥當中。  
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260814.jpg)
+![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260907.jpg)
 
 ## Mission Records
 

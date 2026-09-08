@@ -4,6 +4,7 @@
 
 ### Fox Homingmaru 地下城 系列
 
+- [R0005HM - 泥足深陷](./HM/R0005HM.md)
 - [R0013HM - 危機四伏](./HM/R0013HM.md)
 - [R0016HM - 地城厄運](./HM/R0016HM.md)
 - [R0026HM - 暗影迷城](./HM/R0026HM.md)
@@ -11,6 +12,7 @@
 
 ### Fox Homingmaru 教國 系列
 
+- [R0010HM - 塞翁失馬](./HM/R0010HM.md)
 - [R0015HM - 歌功頌德](./HM/R0015HM.md)
 - [R0018HM - 水深火熱](./HM/R0018HM.md)
 - [R0019HM - 反薯革命](./HM/R0019HM.md)

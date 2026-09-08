@@ -8,7 +8,7 @@
 職業：Cleric 3 (War)  
 宗教：Moradin  
 陣營：Lawful Good  
-點數：8  
+點數：  
 編號：R0024  
 
 ## Characteristic
@@ -27,8 +27,8 @@
 
 | Date       | Mission                              | Title   |
 | ---------- | ------------------------------------ | ------- |
-| 2025-07-27 | R0005HM                              | 泥足深陷 |
-| 2025-09-20 | R0010HM                              | 塞翁失馬 |
+| 2025-07-27 | [R0005HM](../missions/HM/R0005HM.md) | 泥足深陷 |
+| 2025-09-20 | [R0010HM](../missions/HM/R0010HM.md) | 塞翁失馬 |
 | 2025-12-14 | [R0016HM](../missions/HM/R0016HM.md) | 地城厄運 |
 | 2026-04-07 | [R0026HM](../missions/HM/R0026HM.md) | 暗影迷城 |
 | 2026-07-26 | [R0036HM](../missions/HM/R0036HM.md) | 人為刀俎 |
