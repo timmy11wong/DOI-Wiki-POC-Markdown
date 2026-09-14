@@ -7,8 +7,8 @@
 背景：Noble  
 職業：Fighter 2  
 宗教：The Creator  
-陣營：Neutral Good  
-點數：1  
+陣營：Lawful Good  
+點數：  
 編號：R0074  
 
 ## Characteristic

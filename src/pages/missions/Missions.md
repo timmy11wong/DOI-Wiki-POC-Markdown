@@ -9,6 +9,7 @@
 - [R0016HM - 地城厄運](./HM/R0016HM.md)
 - [R0026HM - 暗影迷城](./HM/R0026HM.md)
 - [R0036HM - 人為刀俎](./HM/R0036HM.md)
+- [R0042HM - 惡魔之塔](./HM/R0042HM.md)
 
 ### Fox Homingmaru 教國 系列
 
