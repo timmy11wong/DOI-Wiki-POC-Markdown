@@ -25,7 +25,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Joanna%20Profile%2020260821.jpg)
+![Portrait](../../assets/images/portrait/Joanna%20Profile%2020260925.jpg)
 
 ## Mission Records
 
