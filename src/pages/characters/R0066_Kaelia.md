@@ -8,7 +8,7 @@
 職業：Wizard 3 (Bladesinger)  
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
-點數：5  
+點數：  
 編號：R0066  
 
 ## Characteristic

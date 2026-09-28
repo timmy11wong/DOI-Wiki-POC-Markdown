@@ -8,7 +8,7 @@
 職業：Bard 1 Sorcerer 2  
 宗教：Corellon Larethian  
 陣營：Chaotic Good  
-點數：2  
+點數：  
 編號：R0031  
 
 ## Characteristic

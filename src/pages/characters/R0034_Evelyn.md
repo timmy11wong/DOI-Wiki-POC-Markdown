@@ -8,7 +8,7 @@
 職業：Wizard 4 (Diviner)  
 宗教：Corellon Larethian  
 陣營：Neutral Good  
-點數：3  
+點數：  
 編號：R0034  
 
 ## Characteristic

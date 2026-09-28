@@ -8,7 +8,7 @@
 職業：Rogue 1 Fighter 2  
 宗教：God of the World  
 陣營：Lawful Neutral  
-點數：1  
+點數：  
 編號：R0045  
 
 ## Characteristic
