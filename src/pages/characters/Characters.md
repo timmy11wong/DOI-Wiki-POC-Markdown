@@ -5,6 +5,7 @@
 - [David (R0031)](./Character_David.md)
 - [Evelyn (R0034)](./Character_Evelyn.md)
 - [Firenze (R0045)](./Character_Firenze.md)
+- [Galanodel](./Character_Galanodel.md)
 - [Joanna (R0074)](./Character_Joanna.md)  
 - [Kaelia (R0066)](./Character_Kaelia.md)
 

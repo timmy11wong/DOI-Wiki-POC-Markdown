@@ -11,6 +11,7 @@ This repository is intended as a POC and testing ground for documenting content 
   - [David (R0031)](./src/pages/characters/Character_David.md)
   - [Evelyn (R0034)](./src/pages/characters/Character_Evelyn.md)
   - [Firenze (R0045)](./src/pages/characters/Character_Firenze.md)
+  - [Galanodel](./src/pages/characters/Character_Galanodel.md)
   - [Joanna (R0074)](./src/pages/characters/Character_Joanna.md)
   - [Kaelia (R0066)](./src/pages/characters/Character_Kaelia.md)
 - [Missions](./src/pages/missions/Missions.md)

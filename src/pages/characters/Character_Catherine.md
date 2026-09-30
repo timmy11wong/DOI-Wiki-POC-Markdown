@@ -31,7 +31,7 @@
 
 ### Portrait
 
-![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260907.jpg)
+![Portrait](../../assets/images/portrait/Catherine%20Profile%2020260930.jpg)
 
 ## Mission Records
 
