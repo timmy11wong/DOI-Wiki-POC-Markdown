@@ -49,6 +49,10 @@
 - [R0025DW - 迷幻可可](./DW/R0025DW.md)  
 - [R0034DW - 血債血償](./DW/R0034DW.md)  
 
+### Death Walker 朱古力工房 系列  
+
+- [R0043DW - 甜蜜的枷鎖](./DW/R0043DW.md)
+
 ### Death Walker 黃金鄉 系列  
 
 - [R0027DW - 黃金鑰匙](./DW/R0027DW.md)
