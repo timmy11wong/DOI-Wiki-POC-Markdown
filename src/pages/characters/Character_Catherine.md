@@ -45,6 +45,7 @@
 | 2026-01-25 | [R0020DW](../missions/DW/R0020DW.md) | 玉米復仇記       |
 | 2026-03-28 | [R0025DW](../missions/DW/R0025DW.md) | 迷幻可可         |
 | 2026-07-05 | [R0034DW](../missions/DW/R0034DW.md) | 血債血償         |
+| 2026-11-01 | [R0046DW](../missions/DW/R0046DW.md) | 黑曜之秤         |
 
 ---
 

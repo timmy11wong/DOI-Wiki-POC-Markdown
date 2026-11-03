@@ -22,6 +22,7 @@
 - [R0030HM - 薯出必行](./HM/R0030HM.md)
 - [R0033HM - 薯即是薯](./HM/R0033HM.md)
 - [R0040HM - 薯兄薯弟](./HM/R0040HM.md)
+- [R0045HM - 殊歸去兮](./HM/R0045HM.md)
 
 ## Henry Missions List
 
@@ -49,6 +50,7 @@
 - [R0022DW - 新年糖果大作戰](./DW/R0022DW.md)  
 - [R0025DW - 迷幻可可](./DW/R0025DW.md)  
 - [R0034DW - 血債血償](./DW/R0034DW.md)  
+- [R0046DW - 黑曜之秤](./DW/R0046DW.md)  
 
 ### Death Walker 朱古力工房 系列  
 
@@ -62,6 +64,7 @@
 ## Grass Skin Missions List  
 
 - [R0031GS - 紫氣東來](./GS/R0031GS.md)
+- [R0045GS - 請君入夢](./GS/R0045GS.md)
 
 ## Tim Yu Mission List
 
