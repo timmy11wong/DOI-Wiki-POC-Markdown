@@ -42,6 +42,7 @@
 | 2026-05-25 | [R0030HM](../missions/HM/R0030HM.md) | 薯出必行 |
 | 2026-07-01 | [R0033HM](../missions/HM/R0033HM.md) | 薯即是薯 |
 | 2026-08-23 | [R0040HM](../missions/HM/R0040HM.md) | 薯兄薯弟 |
+| 2026-11-14 | [R0047HM](../missions/HM/R0047HM.md) | 光之天下 |
 
 ---
 

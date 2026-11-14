@@ -23,6 +23,7 @@
 - [R0033HM - 薯即是薯](./HM/R0033HM.md)
 - [R0040HM - 薯兄薯弟](./HM/R0040HM.md)
 - [R0045HM - 殊歸去兮](./HM/R0045HM.md)
+- [R0047HM - 光之天下](./HM/R0047HM.md)
 
 ## Henry Missions List
 
